@@ -1,6 +1,6 @@
 # Snake_Game
 
-## Praticando Python e logica de programação
+## Praticando Python e lógica de programação
 
 ## Gif
 
