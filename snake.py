@@ -62,8 +62,7 @@ while True:
 		if event.type == QUIT:
 			pygame.quit()
 			exit()
-
-		# Ver no ReadMe: Logica do plano cartesiano no pygame.  
+		
 		# Evento de teclado / movimento do objeto
 
 		if event.type == KEYDOWN:
